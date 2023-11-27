@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Task-3: PWC Customer Retention</title>
-</head>
 <body>
     <h1>Task-3: PWC Customer Retention</h1>
     <p>This repository contains the work for Task-3 of Forage's virtual internship for PWC Customer Retention. The PhoneNow Onsite Manager, Janet, requested a Power BI dashboard that reflects all relevant metrics in the dataset. The dashboard aims to answer the following questions:</p>
